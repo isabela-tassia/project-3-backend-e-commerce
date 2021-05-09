@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/isabela-tassia/project-3-backend-e-commerce#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6",
+    "mongoose": "^5.12.7"
   }
 }
